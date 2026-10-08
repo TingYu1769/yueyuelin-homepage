@@ -4,6 +4,8 @@
 
 在线访问：https://tingyu1769.github.io/yueyuelin-homepage/
 
+主页包含关于我、爱好和作品集三个板块。
+
 - `index.html`：页面内容
 - `style.css`：页面样式
 - `README.md`：仓库说明
