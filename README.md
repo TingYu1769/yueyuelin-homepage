@@ -6,3 +6,4 @@
 
 - `index.html`：页面内容
 - `style.css`：页面样式
+- `README.md`：仓库说明
