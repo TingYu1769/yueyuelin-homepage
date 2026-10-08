@@ -133,6 +133,15 @@ h1 {
   font-size: 14px;
 }
 
+.contact {
+  display: inline-block;
+  margin-top: 14px;
+  border-bottom: 1px solid var(--accent);
+  color: var(--muted);
+  font-size: 14px;
+  text-decoration: none;
+}
+
 section {
   margin-top: 28px;
   padding: 32px 36px;
